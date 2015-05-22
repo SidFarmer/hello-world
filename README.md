@@ -1,2 +1,1 @@
-# hello-world
-The first of many I hope
+I'm just learning.
